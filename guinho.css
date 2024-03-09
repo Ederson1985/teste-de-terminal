@@ -1,0 +1,13 @@
+#container :is(.aviso, .erro) {
+  color: red;
+  border: 1px solid red;
+  height: 50px;
+  background: pink;
+}
+#container .sucesso {
+  color: green;
+  border: 1px solid green;
+  height: 20px;
+}
+
+Fatal: o seu ramo atual 'mestre' ainda não tem nenhuma confirmação
